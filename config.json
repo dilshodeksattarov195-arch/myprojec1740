@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authprocess",
+        "uuid": 2601300,
+        "checksum": "mz5bda"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
